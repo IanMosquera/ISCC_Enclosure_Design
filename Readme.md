@@ -12,7 +12,7 @@ The design concept uses an extruded aluminum which is made up of two identical e
     - The left side of panel (IO) has 6 cutouts for both polarities of solar panel (input), battery, and load.
     <center>
         <figure>
-            <img src="Initial_Design.png" width="75%">
+            <img src="/Initial_Design.png" width="75%">
             <figcaption>Fig. 1. ISCC on Extruded Aluminum</figcaption>
         </figure>
     </center>
